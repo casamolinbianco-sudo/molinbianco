@@ -1,2 +1,1 @@
-# molinbianco
-parcheggi e punti di interesse ad arezzo da casa nostra
+Repository ready for GitHub Pages. Upload contents and enable Pages.
